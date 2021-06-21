@@ -31,11 +31,14 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-<br>
-<br>
-<br>
-<br>
-<br>
+**My To-do List:**
+- Rebuild emreabaci.com (Angular)
+- Integrate Blog architecture to emreabaci.com
+- Birthday Reminder (Angular)
+- Remote Control Application (ElectronJS + RobotJS)
+- Online Conference Application V1 (Angular + SailsJS + MySQL + Pure WebRTC)
+- Online Conference Application V2 (Angular + SailsJS + MySQL + Any WebRTC Media Server)
+
 <br>
 <br>
 <br>
