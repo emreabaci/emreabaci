@@ -8,7 +8,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=emreabaci.emreabaci)
 
+<a href="#">
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/emreabaci/emreabaci/master/assets/hello_world.gif" height="120"/>
+</a>
 
 <br />
 
