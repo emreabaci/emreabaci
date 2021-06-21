@@ -8,6 +8,8 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=emreabaci.emreabaci)
 
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/emreabaci/emreabaci/master/assets/hello_world.gif?raw=true" height="120" />
+
 <br />
 
 Hi, I'm [Emre Abacı](https://emreabaci.com/), a passionate self-taught Full Stack web developer and a freelance software engineer from Turkey. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
