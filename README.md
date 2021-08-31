@@ -36,9 +36,9 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 **My To-do List:**
-- Rebuild emreabaci.com (Angular) - ⏳Started
+- Rebuild emreabaci.com (Angular) - Finished
 - Integrate Blog architecture to emreabaci.com - Not started yet
-- Birthday Reminder (Angular) - :	🔜 Not started yet, so soon
+- Birthday Reminder (Angular) - : ⏳Started
 - Remote Control Application (ElectronJS + RobotJS) - Not started yet
 - Online Conference Application V1 (Angular + SailsJS + MySQL + Pure WebRTC) - Not started yet
 - Online Conference Application V2 (Angular + SailsJS + MySQL + Any WebRTC Media Server) - Not started yet
