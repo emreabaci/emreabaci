@@ -21,7 +21,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/emreabaci/emreabaci/master/assets/code.gif?raw=true" width="500" height="320" />
   
-- 💼 Any freelance work? Do reach, [email](mailto:emre.abacii@gmail.com) :)
 - 💬 Ask me about anything, I am happy to help;
 
 **Languages and Tools:**  
@@ -37,8 +36,8 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 **My To-do List:**
 - Rebuild emreabaci.com (Angular) - Finished
-- Integrate Blog architecture to emreabaci.com - Not started yet
-- Birthday Reminder (Angular) - : ⏳Started
+- Integrate Blog architecture to emreabaci.com - ⏳Started
+- Birthday Reminder (Angular) - : Not started yet
 - Remote Control Application (ElectronJS + RobotJS) - Not started yet
 - Online Conference Application V1 (Angular + SailsJS + MySQL + Pure WebRTC) - Not started yet
 - Online Conference Application V2 (Angular + SailsJS + MySQL + Any WebRTC Media Server) - Not started yet
